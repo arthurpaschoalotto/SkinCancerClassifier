@@ -14,7 +14,9 @@ Todo o material utilizado no projeto, desde os arquivos originais até o modelo 
 
 Sinta-se à vontade para explorar e contribuir para este projeto. Se tiver alguma dúvida ou precisar de mais informações, entre em contato conosco.
 
-![Exemplo de Lesão de Pele](exemplo_lesao_pele.jpg)
+# Sistema
+
+![Exemplo de Lesão de Pele](imgdash.png)
 
 
 # Como Importar Requisitos de um Arquivo YAML no Conda e Iniciar o sistema
@@ -53,7 +55,7 @@ Aposta ativar o ambiente conda novo, navegue até o repositório clona do git pe
 ```
 streamlit run programa.py
 ```
-### Dúvidas?:
+### Contatos:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eng.arthurpaschoalotto@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-paschoalotto-488839174/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paschoalothur/)
