@@ -19,7 +19,7 @@ Sinta-se à vontade para explorar e contribuir para este projeto. Se tiver algum
 ![Exemplo de Lesão de Pele](imgdash.png)
 
 
-# Como Importar Requisitos de um Arquivo YAML no Conda e Iniciar o sistema
+# Como Importar Requisitos de um Arquivo YAML (Linux) no Conda e Iniciar o sistema
 
 O Conda é uma ferramenta poderosa para gerenciamento de ambientes e pacotes em Python. Se você tem um arquivo YAML chamado "requisitos.yml" que contém uma lista de pacotes e versões, você pode usar o Conda para criar um novo ambiente com essas dependências.
 
